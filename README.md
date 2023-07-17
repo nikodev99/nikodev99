@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nikodev99
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on multiple java project
 - 📫 How to reach me ...
 
